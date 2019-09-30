@@ -1,6 +1,6 @@
 # A repo for when I learn new concepts
 
-## Newest project on top
+### Newest project on top
 
 "GradeBook" further exploration of OOP principles.
 
