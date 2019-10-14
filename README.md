@@ -2,6 +2,8 @@
 
 ### Newest project on top
 
+"InterfacesAndInheritance" basics of interfaces and inheritance
+
 "Battleship" small console game.
 
 "GradeBook" further exploration of OOP principles.
