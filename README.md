@@ -2,6 +2,8 @@
 
 ### Newest project on top
 
+"GenericsApp" basic FizzBuzz sample with Generics
+
 "InterfacesAndInheritance" basics of interfaces and inheritance
 
 "Battleship" small console game.
